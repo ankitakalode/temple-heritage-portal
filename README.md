@@ -139,9 +139,9 @@ Future Enhancements
 
 Author
 
-Name: Your Name
+Name: Ankita Kalode
 
-College: Your College
+College: Nagpur Institute Of Technology
 
 Department: Computer Science & Engineering
 
