@@ -86,8 +86,7 @@ Installation
 5. Open your browser.
 
 6. Run:
-
-http://localhost/Temple-Management-System
+https://github.com/ankitakalode/temple-heritage-portal.git
 
 ---
 
