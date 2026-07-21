@@ -86,7 +86,7 @@ Installation
 5. Open your browser.
 
 6. Run:
-https://github.com/ankitakalode/temple-heritage-portal.git
+https://temple-heritage-port-gz78.bolt.host/temples
 
 ---
 
